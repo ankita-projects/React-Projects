@@ -25,6 +25,9 @@ export default class Navbar extends Component{
                 <li>
                 <Link to ="/rooms">Rooms</Link>
                 </li>
+                <li>
+                <Link to ="/conference">ConferenceRooms</Link>
+                </li>
 
         </ul>
         </div>
